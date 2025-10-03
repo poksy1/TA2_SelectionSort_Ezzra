@@ -1,4 +1,17 @@
 # TA2_SelectionSort_Ezzra
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
